@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/backBtn.png</file>
+        <file>images/homeBtn.png</file>
+        <file>images/List.jpg</file>
+        <file>images/HomeIma.jpg</file>
+        <file>images/Back.jpg</file>
+        <file>images/Run.jpg</file>
+        <file>images/MusicImaRun.jpg</file>
+        <file>images/MusicIma.jpg</file>
+        <file>images/LoadBefore.jpg</file>
+        <file>images/LoadAfter.jpg</file>
+        <file>images/Stop.jpn.jpg</file>
+        <file>images/Zoom.jpg</file>
+        <file>localization/AppLanguage_vi.qm</file>
+        <file>localization/AppLanguage_en.qm</file>
+    </qresource>
+</RCC>

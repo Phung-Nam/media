@@ -1,0 +1,10 @@
+#ifndef LOGHELPER_H
+#define LOGHELPER_H
+
+#include <QDebug>
+#include <unistd.h>
+#include <sys/syscall.h>
+#include <iostream>
+#define LOG_INFO std::cout << "\n[Thread #" << syscall(SYS_gettid) << "]" << Q_FUNC_INFO << " "<<std::endl
+
+#endif // LOGHELPER_H
